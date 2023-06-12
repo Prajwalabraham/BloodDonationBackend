@@ -1,4 +1,4 @@
-package Cors;
+package com.example.bloodGroup.Config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
